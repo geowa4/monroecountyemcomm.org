@@ -1,6 +1,7 @@
 baseURL = 'https://monroecountyemcomm.org/'
 languageCode = 'en-us'
 title = 'Monroe County ARES/RACES'
+publishDir = 'docs'
 
 # Disable default taxonomies since we don't use tags/categories
 disableKinds = ["taxonomy", "term"]

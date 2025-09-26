@@ -3,5 +3,5 @@
 # Hugo build artifacts
 .hugo_build.lock
 
-# Committing public for GitHub Pages
-# public/
+# Committing docs for GitHub Pages
+# docs/
