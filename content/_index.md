@@ -32,7 +32,7 @@ Additional Directors-at-Large include Sam Hartley, Paul Conaway, and George Adam
 
 ## Meetings
 
-We meet monthly except during July, August, and December. All licensed amateur radio operators are welcome to join our meetings and learn more about emergency communications. To become a member, please email [secretary@monroecountyemcomm.org](mailto:secretary@monroecountyemcomm.org).
+We meet monthly except during July, August, and December. All licensed amateur radio operators are welcome to join our meetings and learn more about emergency communications.
 
 ## Get Involved
 
