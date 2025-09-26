@@ -1,0 +1,27 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+{{ if eq .File.BaseFileName "donations" }}
+<div class="donation-highlight">
+    <h3>💝 Thank You for Your Support</h3>
+    <p>Your contribution helps ensure we can continue providing vital emergency communication services to Monroe County when they're needed most.</p>
+</div>
+{{ end }}
+
+{{ if eq .File.BaseFileName "contact" }}
+<div class="contact-info">
+    <h3>📧 Quick Contact</h3>
+    <p><strong>General Inquiries:</strong> <a href="mailto:secretary@monroecountyemcomm.org">secretary@monroecountyemcomm.org</a></p>
+    <p><strong>Website Issues:</strong> <a href="mailto:webmaster@monroecountyemcomm.org">webmaster@monroecountyemcomm.org</a></p>
+</div>
+{{ end }}
+
+{{ if eq .File.BaseFileName "about" }}
+<div class="callout">
+    <h3>🎯 Our Mission in Action</h3>
+    <p>Every member of Monroe County ARES/RACES plays a vital role in ensuring our community stays connected during emergencies. We train regularly, maintain our equipment, and stand ready to serve when called upon by emergency management agencies.</p>
+</div>
+{{ end }}
+
+{{ end }}

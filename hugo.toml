@@ -1,0 +1,29 @@
+baseURL = 'https://monroecountyemcomm.org/'
+languageCode = 'en-us'
+title = 'Monroe County ARES/RACES'
+
+# Disable default taxonomies since we don't use tags/categories
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "Monroe County Amateur Radio Emergency Service - Emergency Communications for Public Service"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 20
+
+[[menu.main]]
+  name = "Donations"
+  url = "/donations/"
+  weight = 30
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 40
