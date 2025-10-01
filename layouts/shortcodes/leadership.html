@@ -1,0 +1,18 @@
+<table class="leadership-table">
+    <thead>
+        <tr>
+            <th>Role</th>
+            <th>Name</th>
+            <th>Call Sign</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range .Site.Params.leadership }}
+        <tr>
+            <td>{{ .role }}</td>
+            <td>{{ .name }}</td>
+            <td>{{ .callsign }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>

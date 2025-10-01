@@ -9,6 +9,31 @@ disableKinds = ["taxonomy", "term"]
 [params]
   description = "Monroe County Amateur Radio Emergency Service - Emergency Communications for Public Service"
 
+[[params.leadership]]
+  role = "President"
+  name = "Tony Correa"
+  callsign = "KD2PTJ"
+
+[[params.leadership]]
+  role = "Vice-President"
+  name = "Joe DiVincenzo"
+  callsign = "AD2DB"
+
+[[params.leadership]]
+  role = "Secretary"
+  name = "Erin Platteter"
+  callsign = "AA2FO"
+
+[[params.leadership]]
+  role = "Treasurer"
+  name = "Tom Wood"
+  callsign = "KD2IOB"
+
+[[params.leadership]]
+  role = "Emergency Coordinator"
+  name = "John Dickason"
+  callsign = "N2JAC"
+
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -23,6 +48,11 @@ disableKinds = ["taxonomy", "term"]
   name = "Donations"
   url = "/donations/"
   weight = 30
+
+[[menu.main]]
+  name = "Resources"
+  url = "/resources/"
+  weight = 35
 
 [[menu.main]]
   name = "Contact"

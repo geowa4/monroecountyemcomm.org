@@ -327,6 +327,43 @@
             color: var(--navy-blue);
             font-weight: bold;
         }
+
+        .leadership-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+        }
+
+        .leadership-table thead {
+            background: var(--navy-blue);
+            color: var(--white);
+        }
+
+        .leadership-table th {
+            padding: 0.75rem;
+            text-align: left;
+            font-weight: bold;
+        }
+
+        .leadership-table td {
+            padding: 0.75rem;
+            border-bottom: 1px solid var(--gray-light);
+        }
+
+        .leadership-table tbody tr:hover {
+            background: var(--gray-light);
+        }
+
+        @media (max-width: 768px) {
+            .leadership-table {
+                font-size: 0.9rem;
+            }
+
+            .leadership-table th,
+            .leadership-table td {
+                padding: 0.5rem;
+            }
+        }
     </style>
 </head>
 <body>

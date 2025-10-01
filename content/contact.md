@@ -26,11 +26,7 @@ Rochester, NY 14623
 
 For specific matters, you may need to contact one of our leadership team members:
 
-- **President**: Tony Correa (KD2PTJ)
-- **Vice-President**: Joe DiVincenzo (AD2DB)
-- **Secretary**: Erin Platteter (AA2FO)
-- **Treasurer**: Tom Wood (KD2IOB)
-- **Emergency Coordinator**: John Dickason (N2JAC)
+{{< leadership >}}
 
 ## Meeting Information
 
