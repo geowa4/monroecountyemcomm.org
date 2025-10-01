@@ -18,18 +18,6 @@ We are licensed amateur radio operators who volunteer our time, equipment, and e
 - **Training**: Regular training sessions and exercises to maintain readiness and improve skills
 - **Community Outreach**: Education about amateur radio and emergency preparedness
 
-## Leadership
-
-Our organization is governed by a Board of Directors with the following positions:
-
-- **President**: Tony Correa (KD2PTJ)
-- **Vice-President**: Joe DiVincenzo (AD2DB)
-- **Secretary**: Erin Platteter (AA2FO)
-- **Treasurer**: Tom Wood (KD2IOB)
-- **Emergency Coordinator**: John Dickason (N2JAC)
-
-Additional Directors-at-Large include Sam Hartley, Paul Conaway, and George Adams.
-
 ## Meetings
 
 We meet monthly except during July, August, and December. All licensed amateur radio operators are welcome to join our meetings and learn more about emergency communications.

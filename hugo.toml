@@ -34,6 +34,21 @@ disableKinds = ["taxonomy", "term"]
   name = "John Dickason"
   callsign = "N2JAC"
 
+[[params.leadership]]
+  role = "Director-at-Large"
+  name = "Sam Hartley"
+  callsign = "KD2TVB"
+
+[[params.leadership]]
+  role = "Director-at-Large"
+  name = "Paul Conaway"
+  callsign = "KD2DO"
+
+[[params.leadership]]
+  role = "Director-at-Large"
+  name = "George Adams"
+  callsign = "K4GWA"
+
 [[menu.main]]
   name = "Home"
   url = "/"
