@@ -19,8 +19,8 @@ Rochester, NY 14623
 - **Website Issues**: [webmaster@monroecountyemcomm.org](mailto:webmaster@monroecountyemcomm.org)
 
 ### Social Media
-- **Facebook**: Monroe County ARES
-- **Twitter**: [@MCARESNY](https://twitter.com/MCARESNY)
+- **Facebook**: [Monroe County ARES](https://www.facebook.com/MCARESNY)
+- **X**: [@MCARESNY](https://x.com/MCARESNY)
 
 ## Leadership Team
 
