@@ -1,0 +1,91 @@
+{{ define "main" }}
+<style>
+    .calendar-container {
+        padding: 2rem 1rem;
+        width: 100%;
+    }
+
+    .calendar-container h1 {
+        margin-bottom: 2rem;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+    }
+
+    .copy-ics-btn {
+        display: inline-block;
+        padding: 0.75rem 1.5rem;
+        background-color: #222983;
+        color: white;
+        border: none;
+        border-radius: 0.5rem;
+        font-weight: bold;
+        font-size: 0.9rem;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    .copy-ics-btn:hover {
+        background-color: #86cbf2;
+        color: #222983;
+    }
+
+    .calendar-wrapper {
+        width: 100%;
+        max-width: 800px;
+        margin: 0 auto;
+        overflow-x: auto;
+    }
+
+    .calendar-wrapper iframe {
+        width: 100%;
+        height: 600px;
+        border: 0;
+        display: block;
+        min-width: 300px;
+    }
+
+    @media (max-width: 768px) {
+        .calendar-container {
+            padding: 1rem 0.5rem;
+        }
+
+        .calendar-wrapper iframe {
+            height: 500px;
+        }
+    }
+
+    @media (max-width: 480px) {
+        .calendar-wrapper iframe {
+            height: 400px;
+        }
+    }
+</style>
+
+<div class="calendar-container">
+    <h1>
+        {{ .Title }}
+        <button class="copy-ics-btn" onclick="copyCalendarLink(this)">Copy ICS Link</button>
+    </h1>
+    <div class="calendar-wrapper">
+        <iframe src="https://calendar.google.com/calendar/embed?src=c_89aa1e27a5a5540b2c4f4988aa6d9a1480e65fa873f341eccf3bda2b461f6df7%40group.calendar.google.com&ctz=America%2FNew_York" frameborder="0" scrolling="no"></iframe>
+    </div>
+</div>
+
+<script>
+    function copyCalendarLink(btn) {
+        const calendarUrl = 'https://calendar.google.com/calendar/ical/c_89aa1e27a5a5540b2c4f4988aa6d9a1480e65fa873f341eccf3bda2b461f6df7%40group.calendar.google.com/public/basic.ics';
+        navigator.clipboard.writeText(calendarUrl).then(() => {
+            const originalText = btn.textContent;
+            btn.textContent = 'Copied!';
+            setTimeout(() => {
+                btn.textContent = originalText;
+            }, 2000);
+        }).catch(() => {
+            alert('Failed to copy. Please try again.');
+        });
+    }
+</script>
+{{ end }}
