@@ -281,8 +281,15 @@
             }
 
             .footer-links {
-                flex-direction: column;
+                flex-wrap: wrap;
+                justify-content: center;
                 gap: 1rem;
+            }
+
+            .footer-links a {
+                flex: 1 1 auto;
+                min-width: 100px;
+                text-align: center;
             }
         }
 
