@@ -78,8 +78,3 @@ disableKinds = ["taxonomy", "term"]
   name = "Calendar"
   url = "/calendar/"
   weight = 37
-
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 40

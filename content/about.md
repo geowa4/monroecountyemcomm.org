@@ -35,6 +35,31 @@ Membership is open to all licensed Amateur Radio operators who are committed to 
 
 If you're a licensed amateur radio operator interested in serving your community through emergency communications, we encourage you to join us. To get started, please email [secretary@monroecountyemcomm.org](mailto:secretary@monroecountyemcomm.org) to become a member. Together, we help ensure that Monroe County stays connected when it matters most.
 
+## Contact Information
+
+We welcome inquiries from licensed amateur radio operators, emergency management professionals, and community members interested in learning more about our services.
+
+### Mailing Address
+```
+Monroe County ARES/RACES
+#1148 1100 Jefferson Road, Suite 12
+Rochester, NY 14623
+```
+
+### Email
+- **General Inquiries**: [secretary@monroecountyemcomm.org](mailto:secretary@monroecountyemcomm.org)
+- **Website Issues**: [webmaster@monroecountyemcomm.org](mailto:webmaster@monroecountyemcomm.org)
+
+### Social Media & Community
+- **Facebook**: [Monroe County ARES](https://www.facebook.com/MCARESNY)
+- **X**: [@MCARESNY](https://x.com/MCARESNY)
+- **Groups.io**: [Monroe County Emcomm](https://groups.io/g/MonroeCountyEmcomm)
+- **Google Calendar**: [Subscribe to our calendar](https://calendar.google.com/calendar/u/1?cid=Y184OWFhMWUyN2E1YTU1NDBiMmM0ZjQ5ODhhYTZkOWExNDgwZTY1ZmE4NzNmMzQxZWNjZjNiZGEyYjQ2MWY2ZGY3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+## Emergency Communications
+
+For actual emergency communications needs, please contact your local emergency management agency. Monroe County ARES/RACES operates under the direction of served agencies during emergency situations.
+
 ---
 
 *Serving the Community Through Amateur Radio*
