@@ -7,7 +7,9 @@ This page provides access to essential operational resources for Monroe County A
 
 Our operational resources are maintained in a shared Google Drive folder for easy access and collaboration.
 
-## 📁 [Operational Resources](https://drive.google.com/drive/folders/1rn-REahGMMtXxvXvK9lOqRb0DIv3kko7?usp=drive_link)
+## 📁 Operational Resources
+
+**[View Documents on Google Drive ↗](https://drive.google.com/drive/folders/1rn-REahGMMtXxvXvK9lOqRb0DIv3kko7?usp=drive_link)**
 
 This folder contains essential documents and resources for our organization:
 
