@@ -21,8 +21,8 @@ disableKinds = ["taxonomy", "term"]
 
 [[params.leadership]]
   role = "Secretary"
-  name = "Erin Platteter"
-  callsign = "AA2FO"
+  name = "Jim Herbst"
+  callsign = "KC2KNJ"
 
 [[params.leadership]]
   role = "Treasurer"

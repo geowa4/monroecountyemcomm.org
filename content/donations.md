@@ -19,6 +19,10 @@ We suggest a donation of **$10**, though any amount is greatly appreciated and h
 
 ## How to Donate
 
+### Online
+You can make a secure online donation through Zeffy:
+[Donate Online via Zeffy](https://www.zeffy.com/en-US/donation-form/donate-to-support-monroe-county-ares)
+
 ### By Mail
 Send your check made payable to:
 **Monroe County Emergency Services**
