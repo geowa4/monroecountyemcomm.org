@@ -42,8 +42,8 @@ We welcome inquiries from licensed amateur radio operators, emergency management
 ### Mailing Address
 ```
 Monroe County ARES/RACES
-#1148 1100 Jefferson Road, Suite 12
-Rochester, NY 14623
+PO Box 10011
+Rochester, NY 14610
 ```
 
 ### Email
