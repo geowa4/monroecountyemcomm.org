@@ -33,7 +33,7 @@ All Monroe County ARES/RACES members have access to these resources. If you have
 
 ## Additional Resources
 
-For training materials, meeting information, and organizational documents, please refer to our [About](/about/) page or contact the leadership team directly through our [Contact](/contact/) page.
+For training materials, meeting information, and organizational documents, please refer to our [About](/about/) page, where you can also find contact information for the leadership team.
 
 ---
 
