@@ -31,8 +31,8 @@ disableKinds = ["taxonomy", "term"]
 
 [[params.leadership]]
   role = "Emergency Coordinator"
-  name = "John Dickason"
-  callsign = "N2JAC"
+  name = "Joseph DiVincenzo"
+  callsign = "AD2DB"
 
 [[params.leadership]]
   role = "Director-at-Large"
