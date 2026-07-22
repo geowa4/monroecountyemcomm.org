@@ -41,9 +41,9 @@ We welcome inquiries from licensed amateur radio operators, emergency management
 
 ### Mailing Address
 ```
-Monroe County ARES/RACES
-PO Box 10011
-Rochester, NY 14610
+Monroe County Amateur Radio Emergency Services, Inc.
+P.O. Box 10011
+Rochester, NY 14610-0011
 ```
 
 ### Email
