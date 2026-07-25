@@ -9,6 +9,32 @@ disableKinds = ["taxonomy", "term"]
 [params]
   description = "Monroe County Amateur Radio Emergency Service - Emergency Communications for Public Service"
 
+[params.emails]
+  secretary = "secretary@monroecountyemcomm.org"
+  webmaster = "webmaster@monroecountyemcomm.org"
+
+[params.meetings]
+  # Months with no monthly meeting
+  exceptions = "July, August, and December"
+
+[params.calendar]
+  id = "c_47a34a906f34ba27c6cacde7a168a110957160035817b408d2553b62434fc3f7@group.calendar.google.com"
+
+[[params.social]]
+  name = "Facebook"
+  label = "Monroe County ARES"
+  url = "https://www.facebook.com/MCARESNY"
+
+[[params.social]]
+  name = "X"
+  label = "@MCARESNY"
+  url = "https://x.com/MCARESNY"
+
+[[params.social]]
+  name = "Groups.io"
+  label = "Monroe County Emcomm"
+  url = "https://groups.io/g/MonroeCountyEmcomm"
+
 [params.mailingAddress]
   lines = [
     "Monroe County Amateur Radio Emergency Services, Inc.",
@@ -24,7 +50,7 @@ disableKinds = ["taxonomy", "term"]
 
 [[params.leadership]]
   role = "Vice-President"
-  name = "Joe DiVincenzo"
+  name = "Joseph DiVincenzo"
   callsign = "AD2DB"
 
 [[params.leadership]]

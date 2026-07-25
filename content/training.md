@@ -29,7 +29,7 @@ Specialized training for amateur radio operators in emergency service:
 
 All courses listed above are available online at no cost and can be completed at your own pace. We encourage new members to complete the FEMA IS-100, IS-200, IS-700, and IS-800 courses as a foundation for emergency communications work.
 
-For questions about training requirements or to share your completed certifications with the organization, please contact [secretary@monroecountyemcomm.org](mailto:secretary@monroecountyemcomm.org).
+For questions about training requirements or to share your completed certifications with the organization, please contact {{< email secretary >}}.
 
 ---
 

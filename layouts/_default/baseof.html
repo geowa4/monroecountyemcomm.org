@@ -413,11 +413,9 @@
 
     <footer>
         <div class="footer-links">
-            <a href="mailto:secretary@monroecountyemcomm.org">Email Us</a>
-            <a href="https://www.facebook.com/MCARESNY" target="_blank">Facebook</a>
-            <a href="https://x.com/MCARESNY" target="_blank">X</a>
-            <a href="https://groups.io/g/MonroeCountyEmcomm" target="_blank">Groups.io</a>
-            <a href="https://calendar.google.com/calendar/u/1?cid=Y184OWFhMWUyN2E1YTU1NDBiMmM0ZjQ5ODhhYTZkOWExNDgwZTY1ZmE4NzNmMzQxZWNjZjNiZGEyYjQ2MWY2ZGY3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20" target="_blank">Calendar</a>
+            <a href="mailto:{{ site.Params.emails.secretary }}">Email Us</a>
+            {{ range site.Params.social }}<a href="{{ .url }}" target="_blank">{{ .name }}</a>
+            {{ end }}<a href="{{ partial "calendar-subscribe-url.html" . }}" target="_blank">Calendar</a>
         </div>
         <p>&copy; {{ now.Format "2006" }} Monroe County ARES/RACES. All rights reserved.</p>
         <p><em>When All Else Fails, Amateur Radio</em></p>

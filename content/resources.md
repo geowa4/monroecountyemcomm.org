@@ -29,7 +29,7 @@ This folder contains essential documents and resources for our organization:
 - Training materials and guides
 - Reference documents for emergency communications
 
-All Monroe County ARES/RACES members have access to these resources. If you have trouble accessing the folder or need additional materials, please contact [secretary@monroecountyemcomm.org](mailto:secretary@monroecountyemcomm.org).
+All Monroe County ARES/RACES members have access to these resources. If you have trouble accessing the folder or need additional materials, please contact {{< email secretary >}}.
 
 ## Additional Resources
 

@@ -1,0 +1,2 @@
+{{- $addr := index site.Params.emails (.Get 0) -}}
+<a href="mailto:{{ $addr }}">{{ $addr }}</a>

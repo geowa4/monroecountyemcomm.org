@@ -14,7 +14,7 @@ We are dedicated to providing reliable backup communication services when normal
 {{< leadership >}}
 
 ## Meetings
-We hold monthly meetings except during July, August, and December. These meetings provide opportunities for:
+We hold monthly meetings except during {{< meeting-exceptions >}}. These meetings provide opportunities for:
 - Training and skill development
 - Planning and coordination
 - Equipment testing and maintenance
@@ -29,11 +29,11 @@ We hold monthly meetings except during July, August, and December. These meeting
 
 ## Membership
 
-Membership is open to all licensed Amateur Radio operators who are committed to public service. We welcome operators of all experience levels, from newly licensed technicians to seasoned extra class operators. To become a member, please email [secretary@monroecountyemcomm.org](mailto:secretary@monroecountyemcomm.org).
+Membership is open to all licensed Amateur Radio operators who are committed to public service. We welcome operators of all experience levels, from newly licensed technicians to seasoned extra class operators. To become a member, please email {{< email secretary >}}.
 
 ## Join Us
 
-If you're a licensed amateur radio operator interested in serving your community through emergency communications, we encourage you to join us. To get started, please email [secretary@monroecountyemcomm.org](mailto:secretary@monroecountyemcomm.org) to become a member. Together, we help ensure that Monroe County stays connected when it matters most.
+If you're a licensed amateur radio operator interested in serving your community through emergency communications, we encourage you to join us. To get started, please email {{< email secretary >}} to become a member. Together, we help ensure that Monroe County stays connected when it matters most.
 
 ## Contact Information
 
@@ -43,14 +43,11 @@ We welcome inquiries from licensed amateur radio operators, emergency management
 {{< mailing-address >}}
 
 ### Email
-- **General Inquiries**: [secretary@monroecountyemcomm.org](mailto:secretary@monroecountyemcomm.org)
-- **Website Issues**: [webmaster@monroecountyemcomm.org](mailto:webmaster@monroecountyemcomm.org)
+- **General Inquiries**: {{< email secretary >}}
+- **Website Issues**: {{< email webmaster >}}
 
 ### Social Media & Community
-- **Facebook**: [Monroe County ARES](https://www.facebook.com/MCARESNY)
-- **X**: [@MCARESNY](https://x.com/MCARESNY)
-- **Groups.io**: [Monroe County Emcomm](https://groups.io/g/MonroeCountyEmcomm)
-- **Google Calendar**: [Subscribe to our calendar](https://calendar.google.com/calendar/u/1?cid=Y184OWFhMWUyN2E1YTU1NDBiMmM0ZjQ5ODhhYTZkOWExNDgwZTY1ZmE4NzNmMzQxZWNjZjNiZGEyYjQ2MWY2ZGY3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+{{< social-links >}}
 
 ## Emergency Communications
 

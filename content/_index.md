@@ -20,11 +20,11 @@ We are licensed amateur radio operators who volunteer our time, equipment, and e
 
 ## Meetings
 
-We meet monthly except during July, August, and December. All licensed amateur radio operators are welcome to join our meetings and learn more about emergency communications.
+We meet monthly except during {{< meeting-exceptions >}}. All licensed amateur radio operators are welcome to join our meetings and learn more about emergency communications.
 
 ## Get Involved
 
-Whether you're a new ham operator or an experienced amateur radio enthusiast, we welcome you to join our mission of serving the community through emergency communications. To become a member, please email [secretary@monroecountyemcomm.org](mailto:secretary@monroecountyemcomm.org). Together, we help keep Monroe County connected when it matters most.
+Whether you're a new ham operator or an experienced amateur radio enthusiast, we welcome you to join our mission of serving the community through emergency communications. To become a member, please email {{< email secretary >}}. Together, we help keep Monroe County connected when it matters most.
 
 ---
 
