@@ -37,8 +37,8 @@ You can also make donations by attending our monthly meetings. Contact us for me
 
 If you have questions about donations or need additional information, please contact us:
 
-- **Email**: [secretary@monroecountyemcomm.org](mailto:secretary@monroecountyemcomm.org)
-- **Email**: [webmaster@monroecountyemcomm.org](mailto:webmaster@monroecountyemcomm.org)
+- **Email**: {{< email secretary >}}
+- **Email**: {{< email webmaster >}}
 
 ## Thank You
 

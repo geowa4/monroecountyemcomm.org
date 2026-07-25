@@ -37,6 +37,11 @@ Hugo version is pinned via `mise.toml` (currently 0.150.1). Run `hugo --minify` 
 ### Shortcodes
 - **`{{< leadership >}}`**: Renders a leadership table from `params.leadership` data in `hugo.toml`. Used in `about.md`. Leadership data (names, roles, call signs) lives in `hugo.toml`, not in content files.
 - **`{{< mailing-address >}}`**: Renders the organization's mailing address from `params.mailingAddress.lines` in `hugo.toml`. Used in `about.md` and `donations.md`. To update the address, edit the `lines` array in `hugo.toml`.
+- **`{{< email secretary >}}`** / **`{{< email webmaster >}}`**: Renders a mailto link for an address from `params.emails` in `hugo.toml`.
+- **`{{< meeting-exceptions >}}`**: Renders the months with no monthly meeting from `params.meetings.exceptions` in `hugo.toml`.
+- **`{{< social-links >}}`**: Renders the social media list from `params.social` entries in `hugo.toml`, plus the Google Calendar subscribe link derived from `params.calendar.id`.
+
+Layouts can't use shortcodes; templates read the same `site.Params.*` values directly (footer links in `baseof.html`, meeting schedule in `index.html`, calendar embed/ICS URLs in `calendar.html` via `params.calendar.id`, and the `calendar-subscribe-url.html` partial for the Google Calendar subscribe link).
 
 ### Content Organization
 - **_index.md**: Homepage content and organization overview

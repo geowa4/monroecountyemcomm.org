@@ -1,0 +1,6 @@
+<ul>
+    {{ range site.Params.social }}
+    <li><strong>{{ .name }}</strong>: <a href="{{ .url }}">{{ .label }}</a></li>
+    {{ end }}
+    <li><strong>Google Calendar</strong>: <a href="{{ partial "calendar-subscribe-url.html" . }}">Subscribe to our calendar</a></li>
+</ul>

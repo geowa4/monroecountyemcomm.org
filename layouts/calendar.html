@@ -70,13 +70,13 @@
         <button class="copy-ics-btn" onclick="copyCalendarLink(this)">Copy ICS Link</button>
     </h1>
     <div class="calendar-wrapper">
-        <iframe src="https://calendar.google.com/calendar/embed?src=c_47a34a906f34ba27c6cacde7a168a110957160035817b408d2553b62434fc3f7%40group.calendar.google.com&ctz=America%2FNew_York" frameborder="0" scrolling="no"></iframe>
+        <iframe src="https://calendar.google.com/calendar/embed?src={{ urlquery site.Params.calendar.id }}&ctz=America%2FNew_York" frameborder="0" scrolling="no"></iframe>
     </div>
 </div>
 
 <script>
     function copyCalendarLink(btn) {
-        const calendarUrl = 'https://calendar.google.com/calendar/ical/c_47a34a906f34ba27c6cacde7a168a110957160035817b408d2553b62434fc3f7%40group.calendar.google.com/public/basic.ics';
+        const calendarUrl = 'https://calendar.google.com/calendar/ical/{{ urlquery site.Params.calendar.id }}/public/basic.ics';
         navigator.clipboard.writeText(calendarUrl).then(() => {
             const originalText = btn.textContent;
             btn.textContent = 'Copied!';

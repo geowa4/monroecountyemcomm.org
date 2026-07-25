@@ -1,0 +1,2 @@
+{{- /* Google Calendar "add calendar" links use the base64-encoded calendar ID, unpadded */ -}}
+{{- printf "https://calendar.google.com/calendar/u/0?cid=%s" (replace (base64Encode site.Params.calendar.id) "=" "") -}}
