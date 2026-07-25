@@ -36,6 +36,7 @@ Hugo version is pinned via `mise.toml` (currently 0.150.1). Run `hugo --minify` 
 
 ### Shortcodes
 - **`{{< leadership >}}`**: Renders a leadership table from `params.leadership` data in `hugo.toml`. Used in `about.md`. Leadership data (names, roles, call signs) lives in `hugo.toml`, not in content files.
+- **`{{< mailing-address >}}`**: Renders the organization's mailing address from `params.mailingAddress.lines` in `hugo.toml`. Used in `about.md` and `donations.md`. To update the address, edit the `lines` array in `hugo.toml`.
 
 ### Content Organization
 - **_index.md**: Homepage content and organization overview

@@ -40,11 +40,7 @@ If you're a licensed amateur radio operator interested in serving your community
 We welcome inquiries from licensed amateur radio operators, emergency management professionals, and community members interested in learning more about our services.
 
 ### Mailing Address
-```
-Monroe County Amateur Radio Emergency Services, Inc.
-P.O. Box 10011
-Rochester, NY 14610-0011
-```
+{{< mailing-address >}}
 
 ### Email
 - **General Inquiries**: [secretary@monroecountyemcomm.org](mailto:secretary@monroecountyemcomm.org)

@@ -28,11 +28,7 @@ Send your check made payable to:
 **Monroe County Emergency Services**
 
 Mail to:
-```
-Monroe County Amateur Radio Emergency Services, Inc.
-P.O. Box 10011
-Rochester, NY 14610-0011
-```
+{{< mailing-address >}}
 
 ### In Person
 You can also make donations by attending our monthly meetings. Contact us for meeting details and location.

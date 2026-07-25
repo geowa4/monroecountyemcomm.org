@@ -9,6 +9,14 @@ disableKinds = ["taxonomy", "term"]
 [params]
   description = "Monroe County Amateur Radio Emergency Service - Emergency Communications for Public Service"
 
+[params.mailingAddress]
+  lines = [
+    "Monroe County Amateur Radio Emergency Services, Inc.",
+    "1100 Jefferson Rd.",
+    "Suite 12 #1148",
+    "Rochester, NY 14623",
+  ]
+
 [[params.leadership]]
   role = "President"
   name = "Tony Correa"
