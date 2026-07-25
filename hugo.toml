@@ -50,7 +50,7 @@ disableKinds = ["taxonomy", "term"]
 
 [[params.leadership]]
   role = "Vice-President"
-  name = "Joe DiVincenzo"
+  name = "Joseph DiVincenzo"
   callsign = "AD2DB"
 
 [[params.leadership]]
