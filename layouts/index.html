@@ -1,4 +1,16 @@
 {{ define "main" }}
+{{ with site.Params.announcement }}
+{{ if .enabled }}
+<div class="announcement">
+    <div class="announcement-badge">Sign Up Now</div>
+    <h2 class="announcement-title">{{ .title }}</h2>
+    {{ with .date }}<p class="announcement-date">{{ . }}</p>{{ end }}
+    {{ with .text }}<p class="announcement-text">{{ . }}</p>{{ end }}
+    <a class="announcement-button" href="{{ .url }}" target="_blank" rel="noopener">{{ .buttonText }} &rarr;</a>
+</div>
+{{ end }}
+{{ end }}
+
 {{ .Content }}
 
 <div class="amateur-radio-grid">

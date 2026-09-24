@@ -20,6 +20,15 @@ disableKinds = ["taxonomy", "term"]
 [params.calendar]
   id = "c_47a34a906f34ba27c6cacde7a168a110957160035817b408d2553b62434fc3f7@group.calendar.google.com"
 
+# Homepage announcement banner. Set enabled = false (or remove) to hide it.
+[params.announcement]
+  enabled = true
+  title = "2026 ARRL Simulated Emergency Test"
+  date = "Saturday, October 3, 2026"
+  text = "Monroe County ARES/RACES is participating in the ARRL SET. All members are encouraged to take part — sign up now so we can plan assignments."
+  buttonText = "Sign Up for the SET"
+  url = "https://forms.gle/s7F9WdB4X8TyYe9c8"
+
 [[params.social]]
   name = "Facebook"
   label = "Monroe County ARES"
