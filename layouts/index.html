@@ -2,7 +2,6 @@
 {{ with site.Params.announcement }}
 {{ if .enabled }}
 <div class="announcement">
-    <div class="announcement-badge">Sign Up Now</div>
     <h2 class="announcement-title">{{ .title }}</h2>
     {{ with .date }}<p class="announcement-date">{{ . }}</p>{{ end }}
     {{ with .text }}<p class="announcement-text">{{ . }}</p>{{ end }}
